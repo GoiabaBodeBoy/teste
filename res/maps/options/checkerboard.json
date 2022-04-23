@@ -1,9 +1,0 @@
-{
-  "flavor": "OFFICIAL",
-  "availability": "AVAILABLE",
-  "alignment": {
-    "vertical": "MIDDLE",
-    "horizontal": "LEFT"
-  },
-  "autogenTitle": true
-}
